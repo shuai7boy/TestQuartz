@@ -1,0 +1,8 @@
+2017-01-01 17:00:02,645 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz·þÎñÃèÊö
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 17:00:02,754 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 17:00:02,818 [1] DEBUG Topshelf.Hosts.UninstallHost - Uninstalling TestQuartz
+ Topshelf.Hosts.UninstallHostname2017-01-01 17:00:02,854 [1] INFO  Topshelf.Runtime.Windows.HostInstaller - Uninstalling TestQuartz service
+ Topshelf.Runtime.Windows.HostInstallername

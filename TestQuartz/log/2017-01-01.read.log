@@ -1,0 +1,322 @@
+2017-01-01 16:00:30,713 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:00:30,797 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:00:31,631 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:00:31,663 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:00:33,925 [8] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:02:17,600 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:02:17,679 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:02:22,975 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:02:23,016 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:02:29,547 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:02:56,125 [23] INFO  Topshelf.Hosts.ConsoleRunHost - Control+C detected, attempting to stop service.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:02:56,160 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service has stopped.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:06:10,163 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:06:10,212 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:06:10,762 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:06:10,780 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:06:11,463 [8] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:08:00,759 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:08:00,820 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:08:01,334 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:08:01,356 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:08:02,391 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:08:02,590 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 我是一个测试文本
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:08:05,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 我是一个测试文本
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:08:10,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 我是一个测试文本
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:08:15,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 我是一个测试文本
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:08:20,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 我是一个测试文本
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:09:37,800 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:09:37,856 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:09:38,415 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:09:38,435 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:09:39,266 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:10:56,815 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:10:56,885 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:10:57,434 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:10:57,455 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:10:58,316 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:10:58,409 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:11:00,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:11:05,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:11:10,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:11:15,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:12:08,695 [8] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:12:08,755 [8] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:12:09,347 [8] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:12:09,369 [8] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:12:10,187 [8] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:12:10,266 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:12:15,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:12:20,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:18:05,912 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:18:06,042 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:18:06,820 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:18:06,878 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:18:07,903 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:18:08,056 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:20:31,623 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-01-01 16:20:31,727 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:20:31,767 [1] DEBUG Topshelf.Hosts.InstallHost - Attempting to install 'QuartzDemo服务名称'
+ Topshelf.Hosts.InstallHostname2017-01-01 16:20:32,088 [1] INFO  Topshelf.Runtime.Windows.HostInstaller - Installing QuartzDemo服务显示名称 service
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:20:32,228 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Opening Registry
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:20:32,229 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Service path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:20:32,229 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Image path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"  -displayname "QuartzDemo服务显示名称" -servicename "QuartzDemo服务名称"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:20:38,164 [1] ERROR Topshelf.HostFactory - The service terminated abnormally
+ Topshelf.HostFactorynameSystem.InvalidOperationException: 安装失败，已执行回滚。 ---> System.UnauthorizedAccessException: 尝试执行未经授权的操作。
+   在 Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   在 Microsoft.Win32.RegistryKey.SetValue(String name, Object value, RegistryValueKind valueKind)
+   在 Topshelf.Runtime.Windows.HostInstaller.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   在 Topshelf.Runtime.Windows.WindowsHostEnvironment.InstallService(InstallHostSettings settings, Action beforeInstall, Action afterInstall, Action beforeRollback, Action afterRollback)
+   在 Topshelf.Hosts.InstallHost.Run()
+   在 Topshelf.HostFactory.Run(Action`1 configureCallback)
+2017-01-01 16:22:09,687 [10] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz服务名称
+[Success] DisplayName TestQuartz服务显示名称
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz服务名称
+ Topshelf.HostFactoryname2017-01-01 16:22:09,743 [10] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:22:10,363 [10] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:22:10,387 [10] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:22:11,235 [10] INFO  Topshelf.Hosts.ConsoleRunHost - The TestQuartz服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:22:11,322 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:22:15,001 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:22:55,847 [1] ERROR Topshelf.HostFactory - An exception occurred creating the host
+ Topshelf.HostFactorynameTopshelf.HostConfigurationException: The service was not properly configured: 
+[Failure] Command Line An unknown command-line option was found: ARGUMENT: iinstall
+[Success] Name TestQuartz服务名称
+[Success] DisplayName TestQuartz服务显示名称
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz服务名称
+   在 Topshelf.Configurators.ValidateConfigurationResult.CompileResults(IEnumerable`1 results)
+   在 Topshelf.HostFactory.New(Action`1 configureCallback)
+2017-01-01 16:25:21,642 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz服务名称
+[Success] DisplayName TestQuartz服务显示名称
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz服务名称
+ Topshelf.HostFactoryname2017-01-01 16:25:21,701 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:25:22,319 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:25:22,345 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:25:23,244 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The TestQuartz服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:25:23,331 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:25:25,001 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:25:30,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:27:52,723 [9] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:27:52,774 [9] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:27:53,312 [9] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:27:53,334 [9] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:27:54,201 [9] INFO  Topshelf.Hosts.ConsoleRunHost - The TestQuartz service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:27:54,262 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:27:55,001 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:28:50,697 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:28:50,806 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:28:50,854 [1] DEBUG Topshelf.Hosts.InstallHost - Attempting to install 'TestQuartz'
+ Topshelf.Hosts.InstallHostname2017-01-01 16:28:50,916 [1] INFO  Topshelf.Runtime.Windows.HostInstaller - Installing TestQuartz service
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:28:50,983 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Opening Registry
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:28:50,983 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Service path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:28:50,984 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Image path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"  -displayname "TestQuartz" -servicename "TestQuartz"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:28:56,365 [1] ERROR Topshelf.HostFactory - The service terminated abnormally
+ Topshelf.HostFactorynameSystem.InvalidOperationException: 安装失败，已执行回滚。 ---> System.UnauthorizedAccessException: 尝试执行未经授权的操作。
+   在 Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   在 Microsoft.Win32.RegistryKey.SetValue(String name, Object value, RegistryValueKind valueKind)
+   在 Topshelf.Runtime.Windows.HostInstaller.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   在 Topshelf.Runtime.Windows.WindowsHostEnvironment.InstallService(InstallHostSettings settings, Action beforeInstall, Action afterInstall, Action beforeRollback, Action afterRollback)
+   在 Topshelf.Hosts.InstallHost.Run()
+   在 Topshelf.HostFactory.Run(Action`1 configureCallback)
+2017-01-01 16:32:06,091 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:32:06,173 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:32:07,011 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:32:07,030 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:32:08,036 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The TestQuartz service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-01-01 16:32:08,174 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:32:10,001 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:32:30,686 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:32:30,790 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:32:30,842 [1] DEBUG Topshelf.Hosts.InstallHost - Attempting to install 'TestQuartz'
+ Topshelf.Hosts.InstallHostname2017-01-01 16:32:30,905 [1] INFO  Topshelf.Runtime.Windows.HostInstaller - Installing TestQuartz service
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:32:30,971 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Opening Registry
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:32:30,973 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Service path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:32:30,973 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Image path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"  -displayname "TestQuartz" -servicename "TestQuartz"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:32:36,152 [1] ERROR Topshelf.HostFactory - The service terminated abnormally
+ Topshelf.HostFactorynameSystem.InvalidOperationException: 安装失败，已执行回滚。 ---> System.UnauthorizedAccessException: 尝试执行未经授权的操作。
+   在 Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   在 Microsoft.Win32.RegistryKey.SetValue(String name, Object value, RegistryValueKind valueKind)
+   在 Topshelf.Runtime.Windows.HostInstaller.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.Installer.Install(IDictionary stateSaver)
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.Install.TransactedInstaller.Install(IDictionary savedState)
+   在 Topshelf.Runtime.Windows.WindowsHostEnvironment.InstallService(InstallHostSettings settings, Action beforeInstall, Action afterInstall, Action beforeRollback, Action afterRollback)
+   在 Topshelf.Hosts.InstallHost.Run()
+   在 Topshelf.HostFactory.Run(Action`1 configureCallback)
+2017-01-01 16:52:35,002 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:52:35,101 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:52:35,145 [1] DEBUG Topshelf.Hosts.InstallHost - Attempting to install 'TestQuartz'
+ Topshelf.Hosts.InstallHostname2017-01-01 16:52:35,208 [1] INFO  Topshelf.Runtime.Windows.HostInstaller - Installing TestQuartz service
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:52:35,290 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Opening Registry
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:52:35,291 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Service path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:52:35,291 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Image path: "G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug\TestQuartz.exe"  -displayname "TestQuartz" -servicename "TestQuartz"
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:52:35,449 [1] DEBUG Topshelf.Runtime.Windows.HostInstaller - Closing Registry
+ Topshelf.Runtime.Windows.HostInstallername2017-01-01 16:54:05,276 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:54:05,340 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:54:05,734 [1] DEBUG Topshelf.Runtime.Windows.WindowsHostEnvironment - Started by the Windows services process
+ Topshelf.Runtime.Windows.WindowsHostEnvironmentname2017-01-01 16:54:05,734 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a service, creating service host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:54:05,756 [1] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - Starting as a Windows service
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:54:05,762 [1] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Starting up as a windows service application
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:54:05,777 [16] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Starting
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:54:05,781 [16] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Current Directory: G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:54:05,781 [16] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Arguments: 
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:54:06,816 [16] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Started
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:54:06,986 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:10,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:15,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:20,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:25,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:30,000 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:35,000 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:40,000 [QuartzTest_Worker-8] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:45,000 [QuartzTest_Worker-9] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:50,000 [QuartzTest_Worker-10] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:54:55,007 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:00,001 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:05,017 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:10,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:15,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:20,000 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:25,001 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:30,001 [QuartzTest_Worker-8] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:35,004 [QuartzTest_Worker-9] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:40,000 [QuartzTest_Worker-10] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:45,000 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:50,005 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:55:55,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:00,026 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:05,001 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:10,001 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:15,000 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:20,000 [QuartzTest_Worker-8] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:25,010 [QuartzTest_Worker-9] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:30,000 [QuartzTest_Worker-10] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:35,000 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:40,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:45,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:50,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:56:55,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:00,006 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:05,000 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:05,604 [17] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopping
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:05,637 [17] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopped
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:07,709 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name TestQuartz
+[Success] Description TestQuartz服务描述
+[Success] ServiceName TestQuartz
+ Topshelf.HostFactoryname2017-01-01 16:57:07,776 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.2.150.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-01-01 16:57:08,175 [1] DEBUG Topshelf.Runtime.Windows.WindowsHostEnvironment - Started by the Windows services process
+ Topshelf.Runtime.Windows.WindowsHostEnvironmentname2017-01-01 16:57:08,175 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a service, creating service host.
+ Topshelf.Builders.RunBuildername2017-01-01 16:57:08,185 [1] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - Starting as a Windows service
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:08,192 [1] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Starting up as a windows service application
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:08,198 [16] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Starting
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:08,199 [16] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Current Directory: G:\代码存放\C#\TestQuartz\TestQuartz\bin\Debug
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:08,199 [16] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Arguments: 
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:09,418 [16] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Started
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 16:57:09,596 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:10,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:15,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:20,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:25,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:30,000 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:35,000 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:40,034 [QuartzTest_Worker-8] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:45,000 [QuartzTest_Worker-9] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:50,000 [QuartzTest_Worker-10] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:57:55,001 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:00,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:05,001 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:10,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:15,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:20,000 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:25,000 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:30,000 [QuartzTest_Worker-8] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:35,000 [QuartzTest_Worker-9] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:40,006 [QuartzTest_Worker-10] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:45,000 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:50,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:58:55,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:00,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:05,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:10,000 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:15,000 [QuartzTest_Worker-7] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:20,000 [QuartzTest_Worker-8] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:25,000 [QuartzTest_Worker-9] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:30,000 [QuartzTest_Worker-10] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:35,000 [QuartzTest_Worker-1] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:40,000 [QuartzTest_Worker-2] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:45,000 [QuartzTest_Worker-3] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:50,000 [QuartzTest_Worker-4] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 16:59:55,000 [QuartzTest_Worker-5] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 17:00:00,000 [QuartzTest_Worker-6] INFO  TestQuartz.QuartzJobs.TestJob - 执行了~
+ TestQuartz.QuartzJobs.TestJobname2017-01-01 17:00:02,899 [17] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopping
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-01-01 17:00:02,928 [17] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopped
+ Topshelf.Runtime.Windows.WindowsServiceHostname
